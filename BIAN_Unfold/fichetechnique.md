@@ -1,5 +1,7 @@
-# Titre de l'oeuvre ou de la réalisation
-Unfold 
+![Unfold](medias/devant3.png)
+
+# Unfold
+ 
 
 ## Nom de l'artiste ou de la firme
 Ryoichi Kurokawa 
@@ -21,6 +23,10 @@ Arsenal art contemporain
 ### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 Ryoichi Kurokawa essaie de traduire en sons, images et vibrations, les phénomènes entourant la formation et l’évolution des étoiles.
 
+(Ce texte est inspiré du carte de la BIAN)
+![Cartel](medias/cartel.png)
+
+
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ### (texte à composer)
 6 enceintes autour de nous transmettent des sons. 
@@ -31,20 +37,39 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 ### (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-3 écrans vidéos/projecteurs HD 00:08:00 
-6 enceinte son surround 6.1.1
-8 transducteurs 
-Console de son
+
+![Ensemble de composant](medias/projection.png)
+-3 écrans vidéos/projecteurs HD 00:08:00 
+
+-8 transducteurs 
+
+-Console de son
+
+![Enceinte](medias/enceinte_zoom.png)
+-6 enceinte son surround 6.1.1
+
+(Ce texte est inspiré du carte de la BIAN ainsi que du site de l'Artiste)
+http://www.ryoichikurokawa.com/project/unfold.html
+![Cartel](medias/cartel.png)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 ### (ex. : crochets, sac de sable, câbles de soutien...)
-Fils qui relient les enceinte à la console de son
-3 grandes toiles
-6 câbles de soutien 
-2 bâtons de soutien
-Ruban adhésif
+
+![Fils](medias/fil.png)
+-Fils qui relient les enceinte à la console de son
+
+-Ruban adhésif
+
+![devant de Unfold](medias/devant1.png)
+-3 grandes toiles
+
+-2 bâtons de soutien
+
+![câble de soutien](medias/support.png)
+-6 câbles de soutien
 
 ## Expérience vécue :
+![Alexis_devant_Unfold](medias/alexis.png)
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
@@ -71,4 +96,5 @@ La seule chose que je pense aurait rendu l'oeuvre davantage impressionante, c'es
 http://www.ryoichikurokawa.com/project/unfold.html
 
 Cartel de l'oeuvre
+![Cartel](medias/cartel.png)
 
