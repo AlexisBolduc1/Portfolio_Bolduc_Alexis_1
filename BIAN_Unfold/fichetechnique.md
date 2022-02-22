@@ -17,7 +17,7 @@ Arsenal art contemporain
 2020 Rue William, Montréal, QC H3J 1R8 
 
 ## Date de votre visite
-9 février 
+9 février 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
 ### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
