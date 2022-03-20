@@ -1,4 +1,4 @@
-![Expo](medias/plan_ensemble.HEIC)
+![Expo](medias/plan_ensemble.jpg)
 
 # Imagine Monet
 
@@ -7,27 +7,30 @@
  ![Unfold croquis](croquis/croquiszoom.png)
 
 ## Nom de l'artiste ou de la firme
-Ryoichi Kurokawa 
+Annabelle Mauger et Julien Baron (majoritairement)
 
 ## Année de réalisation
-2016 
+2022 
 
 ## Nom de l'exposition ou de l'événement
-5e Biennale internationale d'art numérique (BIAN) 
+IMAGINE MONET
+
+L’exposition immersive
 
 ## Lieu de mise en exposition
 Arsenal art contemporain 
 2020 Rue William, Montréal, QC H3J 1R8 
 
 ## Date de votre visite
-9 février 2022
+23 février 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
 ### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-Ryoichi Kurokawa essaie de traduire en sons, images et vibrations, les phénomènes entourant la formation et l’évolution des étoiles.
+Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Michael, des projections vous introduiront à l’univers de Monet. Le premier écran vous permettra de (re)découvrir qui est Monet, sa technique artistique, sa fascination pour les nymphéas et sa démarche vers l’abstraction. Le deuxième écran vous présentera le scénario de l’exposition immersive à travers les grandes périodes qui ont marqué le travail de Monet : Monet et son environnement, les séries et Giverny. plusieurs projecteur projètent sur deux écrans et plusieurs enceintes nous font passer de la musique classique.
 
-(Ce texte est inspiré du carte de la BIAN)
-![Cartel](medias/cartel.png)
+(Ce texte est inspiré du site de l'exposition)
+
+[Imagine Monet](https://www.imagine-monet.com/lexposition/#6)
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
