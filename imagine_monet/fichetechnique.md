@@ -1,5 +1,6 @@
 ![Expo](medias/plan_ensemble.jpg)
-
+![Expo](medias/branche.MOV)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](medias/branche.MOV)
 # Imagine Monet
 
  ![Unfold croquis](croquis/croquiscomplet.png)
@@ -43,33 +44,33 @@ transmettent des images sur les 4 murs de la pièces ainsi que sur le sol.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-<img src="medias/projecteur_zoom.jpg" width=50% height=50%>
 - ≈50 projecteurs
+<img src="medias/projecteur_zoom.jpg" width=50% height=50%>
+
+- Des petites enceintes accrochés au plafond
 
 <img src="medias/projecteur.jpg" width=50% height=50%>
--Des petites enceintes accrochés au plafond(je n'ai pas réussi à trouver d'informations sur le nombre)
+
+(je n'ai pas réussi à trouver d'informations sur le nombre)
 
 (Ce texte est inspiré du site de l'exposition)
+
 [Imagine Monet](https://www.imagine-monet.com)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 ### (ex. : crochets, sac de sable, câbles de soutien...)
 
-![Fils](medias/fil.png)
--Fils qui relient les enceinte à la console de son
+-Fils qui relient les enceinte et les projecteurs à des prises
 
--Ruban adhésif
+-Une salle créer pour l'exposition à l'aide de blocs/murs
 
-![devant de Unfold](medias/devant1.png)
--3 grandes toiles
+-Un drap au milieu
 
--2 bâtons de soutien
-
-![câble de soutien](medias/support.png)
--6 câbles de soutien
+<img src="medias/plan_drap.jpg" width=70% height=70%>
 
 ## Expérience vécue :
-![Alexis_devant_Unfold](medias/alexis.png)
+
+<img src="medias/selfie.jpg" width=50% height=50%>
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
