@@ -26,7 +26,7 @@ Arsenal art contemporain
 23 février 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
-Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Michael, des projections vous introduiront à l’univers de Monet. Le premier écran vous permettra de (re)découvrir qui est Monet, sa technique artistique, sa fascination pour les nymphéas et sa démarche vers l’abstraction. Le deuxième écran vous présentera le scénario de l’exposition immersive à travers les grandes périodes qui ont marqué le travail de Monet : Monet et son environnement, les séries et Giverny. Plusieurs projecteurs projetent sur deux écrans et plusieurs enceintes nous font passer de la musique classique.
+Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Michael, des projections vous introduiront à l’univers de Monet. Le premier écran vous permettra de (re)découvrir qui est Monet, sa technique artistique, sa fascination pour les nymphéas et sa démarche vers l’abstraction. Le deuxième écran vous présentera le scénario de l’exposition immersive à travers les grandes périodes qui ont marqué le travail de Monet : Monet et son environnement, les séries et Giverny. Plusieurs projecteurs projetent sur deux écrans et plusieurs enceintes nous font passer de la musique classique. Une oeuvre qui est 100% immersive.
 
 (Ce texte est inspiré du site de l'exposition)
 
