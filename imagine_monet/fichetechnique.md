@@ -25,8 +25,7 @@ Arsenal art contemporain
 23 février 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
-### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Michael, des projections vous introduiront à l’univers de Monet. Le premier écran vous permettra de (re)découvrir qui est Monet, sa technique artistique, sa fascination pour les nymphéas et sa démarche vers l’abstraction. Le deuxième écran vous présentera le scénario de l’exposition immersive à travers les grandes périodes qui ont marqué le travail de Monet : Monet et son environnement, les séries et Giverny. plusieurs projecteur projètent sur deux écrans et plusieurs enceintes nous font passer de la musique classique.
+Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Michael, des projections vous introduiront à l’univers de Monet. Le premier écran vous permettra de (re)découvrir qui est Monet, sa technique artistique, sa fascination pour les nymphéas et sa démarche vers l’abstraction. Le deuxième écran vous présentera le scénario de l’exposition immersive à travers les grandes périodes qui ont marqué le travail de Monet : Monet et son environnement, les séries et Giverny. Plusieurs projecteurs projetent sur deux écrans et plusieurs enceintes nous font passer de la musique classique.
 
 (Ce texte est inspiré du site de l'exposition)
 
@@ -34,29 +33,24 @@ Dans le l’espace pédagogique, imaginé par Annabelle Mauger et Androula Micha
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
-### (texte à composer)
-6 enceintes autour de nous transmettent des sons. 
-Des transducteurs à l’intérieur d’une boite sur laquelle on peut se poser permet de créer des vibrations.
-3 projecteurs ,dont deux accrochés dans les airs par des bâtons, transmettent des images 
-sur 3 toiles attachés par des câbles de suspension. 
-Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
+
+Des enceintes autour de nous transmettent de la musique classique.
+Dans un vaste espace rectangulaire, une cinquantaine de projecteurs accrochés dans les airs, 
+transmettent des images sur les 4 murs de la pièces ainsi que sur le sol.
+
+<img src="medias/pied.jpg" width=50% height=50%>
+
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-### (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
-![Ensemble de composant](medias/projection.png)
--3 écrans vidéos/projecteurs HD 00:08:00 
+<img src="medias/projecteur_zoom.jpg" width=50% height=50%>
+- ≈50 projecteurs
 
--8 transducteurs 
+<img src="medias/projecteur.jpg" width=50% height=50%>
+-Des petites enceintes accrochés au plafond(je n'ai pas réussi à trouver d'informations sur le nombre)
 
--Console de son
-
-![Enceinte](medias/enceinte_zoom.png)
--6 enceinte son surround 6.1.1
-
-(Ce texte est inspiré du carte de la BIAN ainsi que du site de l'Artiste)
-http://www.ryoichikurokawa.com/project/unfold.html
-![Cartel](medias/cartel.png)
+(Ce texte est inspiré du site de l'exposition)
+[Imagine Monet](https://www.imagine-monet.com)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 ### (ex. : crochets, sac de sable, câbles de soutien...)
