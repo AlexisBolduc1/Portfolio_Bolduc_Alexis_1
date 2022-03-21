@@ -97,4 +97,6 @@ La seule chose que je pense aurait rendu l'oeuvre davantage impressionante, c'es
 [Imagine Monet](https://www.imagine-monet.com)
 
 Cartel de l'oeuvre
-![Cartel](medias/cartel.png)
+![Cartel](medias/cartel_qui.jpg)
+![Cartel](medias/cartel_serie.jpg)
+![Cartel](medias/cartel_technique.jpg)
