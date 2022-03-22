@@ -82,7 +82,7 @@ Je ne saurais dire ce qui est plus captivant entre les images et le son.
 C'est probablement le mélange des deux qui rend l'oeuvre intéressante. 
 
 ## ❤️ 
-### Ce qui vous a plu, vous a donné des idées et justifications
+### Ce qui m'a plu, m'a donné des idées et justifications
 L'impression de se sentir enfermé ou immergé dans l'oeuvre car cela permet de mieux la comprendre et de l'apprécier.
 On a l'impression d'être dans l'oeuvre, l'impression d'être vraiment là et cela rajoute de l'impact aux messages et à l'oeuvre.
 De plus, ressentir l'oeuvre rajoute un plus, de pouvoir sentir des vibrations. On a encore plus l'impression d'être là.
@@ -90,7 +90,7 @@ Je trouve une bonne idée de pouvoir sentir l'oeuvre par plusieurs de nos sens.
 
 
 ## 🤔 
-### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
 La seule chose que je pense aurait rendu l'oeuvre davantage impressionante, c'est si l'artiste avait lui-même créé des images de synthèses 
 à la place de prendre des images qui existent déjà. Cela aurait rendu l'oeuvre enrichissante et encore plus impressionante à cause du travail que cela consiste.
 
