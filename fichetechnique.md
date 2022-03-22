@@ -24,13 +24,13 @@
 
 ## Expérience vécue :
 
-## Description de votre expérience 
+## Description de mon expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
 ## ❤️ 
-### Ce qui vous a plu, vous a donné des idées et justifications
+### Ce qui m'a plu, m'a donné des idées et justifications
 
 ## 🤔 
-### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
 
 ## Références
