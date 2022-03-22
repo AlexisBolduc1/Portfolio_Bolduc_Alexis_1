@@ -18,6 +18,7 @@ L’exposition immersive
 
 ## Lieu de mise en exposition
 Arsenal art contemporain 
+
 2020 Rue William, Montréal, QC H3J 1R8 
 
 ## Date de votre visite
@@ -56,7 +57,6 @@ transmettent des images sur les 4 murs de la pièces ainsi que sur le sol.
 [Imagine Monet](https://www.imagine-monet.com)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
-### (ex. : crochets, sac de sable, câbles de soutien...)
 
 -Fils qui relient les enceinte et les projecteurs à des prises
 
