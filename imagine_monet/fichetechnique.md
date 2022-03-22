@@ -3,9 +3,7 @@
 
 # Imagine Monet
 
- ![Unfold croquis](croquis/croquiscomplet.png)
- 
- ![Unfold croquis](croquis/croquiszoom.png)
+![Imagine monet croquis](croquis/croquis.jpg)
 
 ## Nom de l'artiste ou de la firme
 Annabelle Mauger et Julien Baron (majoritairement)
