@@ -32,12 +32,13 @@ S’activant via des détecteurs de mouvement, les sculptures murales qui compos
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
-### (texte à composer)
-6 enceintes autour de nous transmettent des sons. 
-Des transducteurs à l’intérieur d’une boite sur laquelle on peut se poser permet de créer des vibrations.
-3 projecteurs ,dont deux accrochés dans les airs par des bâtons, transmettent des images 
-sur 3 toiles attachés par des câbles de suspension. 
-Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
+Tout d'abord, un détecteur de mouvement capte notre arrivée devant l'oeuvre. 
+On voit des formes se déplacer à l'aide de branche sur lesquels sont accrochés des diodes électroluminescentes.
+Tout cela est accroché sur une structure en bois de la forme des vitres.
+De plus, un système electromagnétique est caché à l'arrière de l'oeuvre.
+Une énorme structure accroche toute l'oeuvre au mur.
+Des projecteur envoient de la lumière sur les oeuvres.
+Finalement, un trait de peinture est dessiné autour de l'oeuvre.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
@@ -68,7 +69,7 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-L'oeuvre est très interactive. Elle bouge que lorsque tu es à l'avant de celle-ci. Elle joue sur les perceptions. Les différentes formes permettent d'exprimer différentes illusions.
+L'oeuvre est très interactive. Elle bouge que lorsque tu es à l'avant de celle-ci. Elle joue sur les perceptions. Les différentes formes permettent d'exprimer différentes illusions. Nos yeux sont stimuler mais de manière lente. On nous laisse le temps d'observer. Cependant, on réussi à voir le mouvement et l'illusion créé.
 
 
 ## ❤️ 
