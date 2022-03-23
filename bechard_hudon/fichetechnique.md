@@ -68,15 +68,17 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+L'oeuvre est très interactive. Elle bouge que lorsque tu es à l'avant de celle-ci. Elle joue sur les perceptions. Les différentes formes permettent d'exprimer différentes illusions.
 
 
 ## ❤️ 
 ### Ce qui m'a plu, m'a donné des idées et justifications
-
+J'ai beaucoup aimer l'effet que donnait les diodes électroluminescentes sur l'oeuvre. Le fait de rajouter des lumières fesaient un beau rendu. Ces lumières sont intégrés à l'oeuvre, je trouve que c'est une bonne idée. Considérant que les formes sont semi-transparentes, l'ajout de lumière est encore plus utile. De plus, les fils qui trainent au sol sont très bien installés, Malgré qu'ils soient visibles, je trouve qu'ils rajoutent un plus à l'oeuvre.
 
 
 ## 🤔 
 ### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
+Je trouve que l'ajout d'un détecteur de mouvement n'est pas forcément utile. Cela rajoute en effet de l'interactivité mais celle-ci n'est pas nécessaire. Si c'était moi j'aurais simplement laisser la structure bouger en tout temps. Ainsi, les 3 structures bougeraient en même temps et cela serait davantage intéressant que de devoir rester pendant 45 minutes devant chaques oeuvres.
 
 
 
