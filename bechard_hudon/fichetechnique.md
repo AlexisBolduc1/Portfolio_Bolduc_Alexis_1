@@ -1,33 +1,32 @@
-![Béchard Hudon](medias/devant3.png)
+![Béchard Hudon](medias/rond_loin.jpg)
 
-# Béchard Hudon - Configurations du sensible
+# Mécanismes de dessaisissement (rond, carré, triangle)
 
- ![Unfold croquis](croquis/croquiscomplet.png)
- 
- ![Unfold croquis](croquis/croquiszoom.png)
+ ![Béchard Hudon croquis](croquis/croquiscomplet.png)
 
 ## Nom de l'artiste ou de la firme
-Ryoichi Kurokawa 
+Catherine Béchard et Sabin Hudon
 
 ## Année de réalisation
-2016 
+2019-2020 
 
 ## Nom de l'exposition ou de l'événement
-5e Biennale internationale d'art numérique (BIAN) 
+Béchard Hudon - Configurations du sensible
 
 ## Lieu de mise en exposition
-Arsenal art contemporain 
-2020 Rue William, Montréal, QC H3J 1R8 
+Salle Alfred-Pellan 
+
+Maison des arts de Laval
+
+1395, boul de la Concorde O, Laval, Quebec H7N 5W1
 
 ## Date de votre visite
-9 février 2022
+22 mars 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
-### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-Ryoichi Kurokawa essaie de traduire en sons, images et vibrations, les phénomènes entourant la formation et l’évolution des étoiles.
+S’activant via des détecteurs de mouvement, les sculptures murales qui composent la série Mécanismes de dessaisissement tendent à capter le regard, l’emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une au moyen d’un logiciel, les fines rayures qui caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l’expérience visuelle dans le temps. Par ailleurs, les dispositifs électromécaniques qui alimentent ces structures sont laissés visibles de façon à déjouer la pureté formelle de l’ensemble, entre autres à travers les lignes plus aléatoires que dessinent les fils électriques. On peut voir plusieurs formes se déplacer pour déjouer notre perception lorsque l'on reste devant pour l'admirer.
 
-(Ce texte est inspiré du carte de la BIAN)
-![Cartel](medias/cartel.png)
+(Ce texte est inspiré du cartel de l'oeuvre)
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
@@ -39,40 +38,27 @@ sur 3 toiles attachés par des câbles de suspension.
 Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-### (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
-![Ensemble de composant](medias/projection.png)
--3 écrans vidéos/projecteurs HD 00:08:00 
+![Oeuvre ronde](medias/rond.jpg)
+- Diodes électroluminescentes
+- Bois 
+- Aluminium
+- Impression à jet d'ancre sur acrylique
+- Système électromécanique
+- Détecteur de mouvement
+![L'arrière de l'oeuvre ronde](medias/arriere.JPG)
 
--8 transducteurs 
+(Ce texte est inspiré du cartel de l'oeuvre)
 
--Console de son
-
-![Enceinte](medias/enceinte_zoom.png)
--6 enceinte son surround 6.1.1
-
-(Ce texte est inspiré du carte de la BIAN ainsi que du site de l'Artiste)
-http://www.ryoichikurokawa.com/project/unfold.html
-![Cartel](medias/cartel.png)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
-### (ex. : crochets, sac de sable, câbles de soutien...)
 
-![Fils](medias/fil.png)
--Fils qui relient les enceinte à la console de son
-
--Ruban adhésif
-
-![devant de Unfold](medias/devant1.png)
--3 grandes toiles
-
--2 bâtons de soutien
-
-![câble de soutien](medias/support.png)
--6 câbles de soutien
+![Fils](medias/fil.jpg)
+- Fils pour permettre à l'oeuvre de fonctionner
+- Structure afin de soutenir l'oeuvre dans les airs
 
 ## Expérience vécue :
-![Alexis_devant_Unfold](medias/alexis.png)
+![Alexis_devant_l'oeuvre ronde](medias/autoportrait.jpg)
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
@@ -96,7 +82,5 @@ La seule chose que je pense aurait rendu l'oeuvre davantage impressionante, c'es
 
 
 ## Références
-http://www.ryoichikurokawa.com/project/unfold.html
-
 Cartel de l'oeuvre
-![Cartel](medias/cartel.png)
+![Cartel](medias/cartel_oeuvre.jpg)
