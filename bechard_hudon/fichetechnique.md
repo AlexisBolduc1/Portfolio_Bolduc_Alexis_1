@@ -1,4 +1,6 @@
 ![Béchard Hudon](medias/rond_loin.jpg)
+![Béchard Hudon](medias/triangle.jpg)
+![Béchard Hudon](medias/carre.JPG)
 
 # Mécanismes de dessaisissement (rond, carré, triangle)
 
@@ -56,6 +58,9 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 ![Fils](medias/fil.jpg)
 - Fils pour permettre à l'oeuvre de fonctionner
 - Structure afin de soutenir l'oeuvre dans les airs
+- 9 projecteurs de lumière
+
+![Projecteurs](medias/lumiere.JPG)
 
 ## Expérience vécue :
 ![Alexis_devant_l'oeuvre ronde](medias/autoportrait.jpg)
