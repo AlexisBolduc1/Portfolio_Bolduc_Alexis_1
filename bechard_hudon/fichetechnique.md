@@ -48,6 +48,7 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 - Impression à jet d'ancre sur acrylique
 - Système électromécanique
 - Détecteur de mouvement
+
 ![L'arrière de l'oeuvre ronde](medias/arriere.JPG)
 
 (Ce texte est inspiré du cartel de l'oeuvre)
