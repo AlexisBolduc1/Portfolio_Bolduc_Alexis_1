@@ -62,23 +62,16 @@ Les fils sont sur le sol sont accrochés à l’aide de ruban adhésif.
 
 ## Description de votre expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-Je l'ai trouver enivrant, on pourrait y rester pendant des heures. Nos oreilles ne nous le permettrait pas mais j'aimerais bien. 
-On se sent téléporter dans un autre univers. C'est probablement grâce aux images qui ont un lien avec l'espace. 
-Je ne saurais dire ce qui est plus captivant entre les images et le son.
-C'est probablement le mélange des deux qui rend l'oeuvre intéressante. 
+
 
 ## ❤️ 
 ### Ce qui m'a plu, m'a donné des idées et justifications
-L'impression de se sentir enfermé ou immergé dans l'oeuvre car cela permet de mieux la comprendre et de l'apprécier.
-On a l'impression d'être dans l'oeuvre, l'impression d'être vraiment là et cela rajoute de l'impact aux messages et à l'oeuvre.
-De plus, ressentir l'oeuvre rajoute un plus, de pouvoir sentir des vibrations. On a encore plus l'impression d'être là.
-Je trouve une bonne idée de pouvoir sentir l'oeuvre par plusieurs de nos sens.
+
 
 
 ## 🤔 
 ### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
-La seule chose que je pense aurait rendu l'oeuvre davantage impressionante, c'est si l'artiste avait lui-même créé des images de synthèses 
-à la place de prendre des images qui existent déjà. Cela aurait rendu l'oeuvre enrichissante et encore plus impressionante à cause du travail que cela consiste.
+
 
 
 ## Références
