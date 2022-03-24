@@ -72,7 +72,7 @@ transmettent des images sur les 4 murs de la pièces ainsi que sur le sol.
 
 ## Description de mon expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-C'est une oeuvre 100% immersive. Je me suis senti aspiré par l'oeuvre. La musique classique m'a transporté dans le temps de Monet. Les oeuvres étaient animées de façon qu'on se sentait presque à l'intérieur d'une oeuvre.
+C'est une oeuvre 100% immersive. Je me suis senti aspiré par l'oeuvre. La musique classique m'a transporté dans le temps de Monet. Les oeuvres étaient animées de façon qu'on se sentait presque à l'intérieur d'une oeuvre. J'y suis resté une heure et en tant que fan de peinture je n'ai pas été déçu, mais je peux concevoir qu'une oeuvre aussi contemplative ne soit pas aimé par certaines personnes qui ont du mal à se concentrer.
 
 ## ❤️ 
 ### Ce qui m'a plu, m'a donné des idées et justifications
