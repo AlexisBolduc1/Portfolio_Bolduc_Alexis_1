@@ -72,16 +72,16 @@ transmettent des images sur les 4 murs de la pièces ainsi que sur le sol.
 
 ## Description de mon expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-
+C'est une oeuvre 100% immersive. Je me suis senti aspiré par l'oeuvre. La musique classique m'a transporté dans le temps de Monet. Les oeuvres étaient animées de façon qu'on se sentait presque à l'intérieur d'une oeuvre.
 
 ## ❤️ 
 ### Ce qui m'a plu, m'a donné des idées et justifications
-
+J'ai beaucoup aimer le fait que l'oeuvre soit immersive. Notre ouie et notre vue est stimulé. Cela rend le tout davantage réaliste. Cela donne aussi davantage le goût de rester et on se sent davantage captivés. L'oeuvre est plus prenante. C'est complexe mais le résultat est très impressionant surtout si le but est de créer une ambiance, une époque ou bien simplement un état.
 
 
 ## 🤔 
 ### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
-
+Pour une de mes oeuvres, je rajouterais de l'interactivité. L'oeuvre n'est pas interactive. Lorsqu'on arrive, on s'asseoit et puis on observe pendant environ 1 heure. C'est une oeuvre basé sur l'observation puisque s'est inspiré du peintre Monet. Cependant, pour l'une de mes créations, je préférais intérargir davantage avec le spectateur afin de garder son attention.
 
 
 ## Références
