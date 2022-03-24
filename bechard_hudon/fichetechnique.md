@@ -4,7 +4,7 @@
 
 # Mécanismes de dessaisissement (rond, carré, triangle)
 
- ![Béchard Hudon croquis](croquis/croquiscomplet.png)
+ ![Béchard Hudon croquis](croquis/croquis_forme.png)
 
 ## Nom de l'artiste ou de la firme
 Catherine Béchard et Sabin Hudon
