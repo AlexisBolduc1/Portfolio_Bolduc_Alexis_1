@@ -1,6 +1,6 @@
-![Béchard Hudon](medias/rond_loin.jpg)
-![Béchard Hudon](medias/triangle.jpg)
-![Béchard Hudon](medias/carre.JPG)
+<img src="medias/rond_loin.jpg" width=50% height=50%>
+<img src="medias/triangle.jpg" width=50% height=50%>
+<img src="medias/carre.JPG" width=50% height=50%>
 
 # Mécanismes de dessaisissement (rond, carré, triangle)
 
@@ -50,19 +50,20 @@ Finalement, un trait de peinture est dessiné autour de l'oeuvre.
 - Système électromécanique
 - Détecteur de mouvement
 
-![L'arrière de l'oeuvre ronde](medias/arriere.JPG)
+<img src="medias/arriere.JPG" width=50% height=50%>
 
 (Ce texte est inspiré du cartel de l'oeuvre)
 
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 
-![Fils](medias/fil.jpg)
+<img src="medias/fil.jpg" width=50% height=50%>
+
 - Fils pour permettre à l'oeuvre de fonctionner
 - Structure afin de soutenir l'oeuvre dans les airs
 - 9 projecteurs de lumière
 
-![Projecteurs](medias/lumiere.JPG)
+<img src="medias/lumiere.JPG" width=50% height=50%>
 
 ## Expérience vécue :
 ![Alexis_devant_l'oeuvre ronde](medias/autoportrait.jpg)
