@@ -29,6 +29,8 @@
 
 # L'horloge de l'apocalypse
 
+![Setup](medias/debut.JPG)
+
 ## Nom de l'artiste ou de la firme
 Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
