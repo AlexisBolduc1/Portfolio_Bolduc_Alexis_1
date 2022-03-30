@@ -38,6 +38,8 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 ## Nom de l'exposition ou de l'événement
 Moebius
 
+[![Expérience](http://img.youtube.com/vi/dDASIXUMzFw/0.jpg)](http://www.youtube.com/watch?v=dDASIXUMzFw).
+
 ## Lieu de mise en exposition
 Collège Montmorency
 
