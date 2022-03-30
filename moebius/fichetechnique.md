@@ -29,7 +29,7 @@
 
 # L'horloge de l'apocalypse
 
-![Setup](medias/debut.JPG)
+[![Expérience](http://img.youtube.com/vi/dDASIXUMzFw/0.jpg)](http://www.youtube.com/watch?v=dDASIXUMzFw).
 
 ## Nom de l'artiste ou de la firme
 Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
@@ -39,8 +39,6 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 
 ## Nom de l'exposition ou de l'événement
 Moebius
-
-[![Expérience](http://img.youtube.com/vi/dDASIXUMzFw/0.jpg)](http://www.youtube.com/watch?v=dDASIXUMzFw).
 
 ## Lieu de mise en exposition
 Collège Montmorency
@@ -56,6 +54,7 @@ Petit studio
 ### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+![Setup](medias/debut.JPG)
 ### (texte à composer)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
