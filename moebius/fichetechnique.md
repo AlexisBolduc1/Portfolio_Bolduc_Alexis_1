@@ -53,6 +53,8 @@ Petit studio
 ## Description de l'oeuvre ou du dispositif multimédia 
 Ce projet représente l'impact collectif sur les événements socio-politiques et environnementaux qui se produisent tout au long du temps de l'humanité. Nous abordons ce sujet à travers le concept de l'horloge de l'apocalypse. Selon ce concept, il est présentement 23h58 et la fin du monde est à 24h00. L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater les changements négatifs et qu'il est temps d'agir. Lorsque les heures sont changées, le décor change également afin de représenter l'ambiance voulu. Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
 
+Ce texte s'inspire du [GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ![Setup](medias/debut.JPG)
 ### (texte à composer)
@@ -102,6 +104,8 @@ Ce projet représente l'impact collectif sur les événements socio-politiques e
 - 1 bouton
 - 8 safety
 
+Ces informations ont été trouvés sur le [GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+
 ## Liste des éléments nécessaires pour la mise en exposition 
 
 - Téléphone à roulette
@@ -122,4 +126,5 @@ Ce projet représente l'impact collectif sur les événements socio-politiques e
 ### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
 
 ## Références
-https://github.com/MALT5/L-horloge-de-l-apocalypse
+[GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+
