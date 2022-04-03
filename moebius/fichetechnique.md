@@ -51,7 +51,7 @@ Petit studio
 23 mars 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
-### (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+Ce projet représente l'impact collectif sur les événements socio-politiques et environnementaux qui se produisent tout au long du temps de l'humanité. Nous abordons ce sujet à travers le concept de l'horloge de l'apocalypse. Selon ce concept, il est présentement 23h58 et la fin du monde est à 24h00. L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater les changements négatifs et qu'il est temps d'agir. Lorsque les heures sont changées, le décor change egalement afin de représenter l'ambiance voulu. Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ![Setup](medias/debut.JPG)
@@ -103,7 +103,12 @@ Petit studio
 - 8 safety
 
 ## Liste des éléments nécessaires pour la mise en exposition 
-### (ex. : crochets, sac de sable, câbles de soutien...)
+
+- Téléphone à roulette
+- Piédestal romain
+- Horloge
+
+
 
 ## Expérience vécue :
 
