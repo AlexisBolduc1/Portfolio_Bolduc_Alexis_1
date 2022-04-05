@@ -104,6 +104,8 @@ Ce texte s'inspire du [GitHub de l'équipe](https://github.com/MALT5/L-horloge-d
 - 1 bouton
 - 8 safety
 
+![Setup](medias/mecanisme.JPG)
+
 Ces informations ont été trouvés sur le [GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
 ## Liste des éléments nécessaires pour la mise en exposition 
@@ -112,9 +114,10 @@ Ces informations ont été trouvés sur le [GitHub de l'équipe](https://github.
 - Piédestal romain
 - Horloge
 
-
+![Setup](medias/milieu.JPG)
 
 ## Expérience vécue :
+![Setup](medias/setup.JPG)
 
 ## Description de mon expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
