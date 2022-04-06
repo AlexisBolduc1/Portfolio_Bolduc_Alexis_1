@@ -57,7 +57,8 @@ Ce texte s'inspire du [GitHub de l'équipe](https://github.com/MALT5/L-horloge-d
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ![Setup](medias/debut.JPG)
-### (texte à composer)
+
+On arrive dans la salle et puis un message est affiché pour nous indiquer de déplacer les aiguilles de l'horloge. Lorsque nous déplaçons les aiguilles de l'horloge grâce aux mécanismes, les ambiances autour de nous changent, les projecteurs affichent des animations en vectoriel. Lorsque l'on déplace l'aiguille à minuit, on reçoit un appel au téléphone qui nous dit qu'il est temps d'agir et en même une vidéo en temps réel de la salle est diffusée sur les toiles et puis l'expérience finit.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
@@ -121,12 +122,15 @@ Ces informations ont été trouvés sur le [GitHub de l'équipe](https://github.
 
 ## Description de mon expérience 
 ### de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Dans cette oeuvre l'interactivité est très présente et très bien utilisée. On voit que tout est fonctionnel et fluide. Tout est très bien rangé car on ne remarque presque pas les projecteurs et les caméras ainsi que le mécanisme sont très bien dissimulés dans l'espace. Les animations sont réalisées avec précisions, cela ne nous sort pas de l'ambiance et aucune animation dénote des autres. Je trouve l'ensemble de l'oeuvre très bien réalisé, tout forme un ensemble très cohérent et très agréable à expérimenter.
 
 ## ❤️ 
 ### Ce qui m'a plu, m'a donné des idées et justifications
+La transmission à la fin de la personne qui tient le téléphone est très bien choisi et très bien fait. On comprend réellement le message. C'est à nous d'agir. De plus, la fluidité des exécutions est impressionante. Il n'y avait aucun délai sur la vidéo ni sur les animations qui s'enchainent. Malgré la complexité du processus, l'équipe a réussi à faire un final parfaitement fluide. Je voit très bien que l'équipe s'est donné à 100% pour avoirun rendu parfait. Finalement, le fait de mettre l'interacteur au centre de l'oeuvre rend le tout davantage intéressant car on intéragit et on comprend ainsi mieux le message.
 
 ## 🤔 
 ### Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement et justifications
+J'ai eu de la misère à trouver un point négatif à cette oeuvre. S'il y avait une chose que j'aurais fait différement ce sont les animations. J'aurais davantage fait des vidéos afin de capter davantage l'attention du spectateur. Lui faire constater des évênements qui arrivent réellement plutôt que des animations qui illustre des ambiances. Je pense qu'une vidéo est plus direct et plus choquante.
 
 ## Références
 [GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
