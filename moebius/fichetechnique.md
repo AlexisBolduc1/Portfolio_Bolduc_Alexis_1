@@ -28,6 +28,8 @@
 6 = Distorsion collective / La boucle est intéressante, mais répétitive, j'aurais fait durer davantage longtemps la boucle et les rendus n'étaient pas assez fini selon moi
 
 # L'horloge de l'apocalypse
+![Croquis](croquis/croquis.png)
+[GitHub de l'équipe](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
 [![Expérience](http://img.youtube.com/vi/dDASIXUMzFw/0.jpg)](http://www.youtube.com/watch?v=dDASIXUMzFw).
 
